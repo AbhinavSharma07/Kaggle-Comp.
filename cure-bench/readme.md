@@ -1,7 +1,7 @@
 # CURE-Bench 🧠💊  
 **Benchmarking AI for Clinical Drug Decision-Making and Precision Therapeutics**
  
-## Overview
+## Overview 
 **CURE-Bench** (Clinical Utility in REasoning for Benchmarking) is a competition and benchmark suite designed to evaluate AI models on their ability to support therapeutic decision-making. Unlike traditional QA datasets, CURE-Bench focuses on real-world, high-stakes clinical tasks such as:
 
 - Recommending personalized treatments
