@@ -1,12 +1,5 @@
 # 🏆 Mitsui Commodity Price Prediction Challenge
 
-**Kaggle Competition**  
-📅 Started: July 2025  
-⏳ Ends: October 2025  
-🔗 [Competition Page](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge)
-
----
-
 ## 📌 Overview
 
 This repository contains all relevant code, models, and documentation for the **Mitsui Commodity Prediction Challenge**, hosted on Kaggle.
