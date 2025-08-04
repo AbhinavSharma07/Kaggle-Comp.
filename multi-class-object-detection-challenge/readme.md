@@ -9,9 +9,6 @@ Build an object detection model that can identify multiple classes (Soup + Cheer
 
 But that’s not all! This time, we’re introducing a brand new collaborative workflow with 3LC, a cutting-edge platform for identifying failure modes in AI systems. After training your model on synthetic data, you’ll use 3LC’s tools to analyze your model’s blind spots, then head back to FalconCloud to generate additional targeted data to fix them. It’s an iterative, intelligent approach to training models that work in the real world.
 
-- 👉 [Watch a competition overview video on FalconCloud](#)
-- 👉 [Watch a competition overview video on 3LC](#)
-
 ## 🌟 What’s New in This Challenge?
 
 - **Two object classes:** Cheerios + Soup
