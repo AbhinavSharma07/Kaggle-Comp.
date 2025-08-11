@@ -13,22 +13,8 @@ In particular, participants are challenged to predict price-difference series—
 
 ## 🌍 Why It's Important: Stable Markets and Smarter Decisions
 Accurate commodity price prediction is crucial for reducing financial risk and ensuring stability in the global market. Currently, the inherent volatility and unpredictability of commodity prices create several problems. Companies struggle with resource allocation, budgeting, and investment planning, often resulting in financial losses and inefficient operations. Inaccurate forecasts can also contribute to market instability and price fluctuations, negatively impacting producers, consumers, and investors alike. If this problem could be solved, businesses could optimize their trading strategies, make more informed investment decisions, and manage risk more effectively. This would lead to more efficient resource allocation, reduced price volatility, and a more stable and predictable global commodity market.
+---------
 
 ## 🚀 Current Limitations and What We Hope to Achieve
 Advanced AI algorithms and high-precision models are currently employed for commodity market prediction, utilizing historical price datasets from LME, JPX, US Stock, and Forex. While these models show promise, they often encounter limitations in consistently achieving high accuracy across diverse market conditions and over extended time horizons. Existing models may exhibit over-reliance on specific data patterns, lacking the adaptability required to navigate the dynamic and constantly evolving nature of financial markets. This competition seeks a more diverse and robust set of algorithms to achieve reliable and stable long-term predictions.
 
-## 🛠 Getting Started
-
-### 📋 Prerequisites
-- Python 3.8+
-- TensorFlow 2.x
-- Keras
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-
-### 🛠 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/commodity-price-forecasting.git
