@@ -9,6 +9,7 @@ Welcome to the Commodity Price Forecasting Challenge! In this competition, you a
 This competition tackles the critical need for more accurate and stable long-term commodity price predictions. Getting these predictions right has significant implications for both businesses and the global economy. Inaccurate forecasts can lead to suboptimal trading strategies, poor investment decisions, and increased financial risk for companies involved in commodity markets. By encouraging the development of advanced AI models that can accurately predict future commodity returns using historical data from LME, JPX, US Stock, and Forex, this competition aims to directly improve the precision of financial forecasting and enable the optimization of automated trading strategies.
 
 In particular, participants are challenged to predict price-difference series—derived from the time-series differences between two distinct assets’ prices—to extract robust price-movement signals as features and deploy AI-driven trading techniques that turn those signals into sustainable trading profits.
+
 -----
 
 ## 🌍 Why It's Important: Stable Markets and Smarter Decisions
