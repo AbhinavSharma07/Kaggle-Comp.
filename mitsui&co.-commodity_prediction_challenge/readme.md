@@ -14,6 +14,7 @@ In particular, participants are challenged to predict price-difference series—
 
 ## 🌍 Why It's Important: Stable Markets and Smarter Decisions
 Accurate commodity price prediction is crucial for reducing financial risk and ensuring stability in the global market. Currently, the inherent volatility and unpredictability of commodity prices create several problems. Companies struggle with resource allocation, budgeting, and investment planning, often resulting in financial losses and inefficient operations. Inaccurate forecasts can also contribute to market instability and price fluctuations, negatively impacting producers, consumers, and investors alike. If this problem could be solved, businesses could optimize their trading strategies, make more informed investment decisions, and manage risk more effectively. This would lead to more efficient resource allocation, reduced price volatility, and a more stable and predictable global commodity market.
+
 ---------
 
 ## 🚀 Current Limitations and What We Hope to Achieve
