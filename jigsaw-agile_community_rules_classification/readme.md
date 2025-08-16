@@ -1,5 +1,5 @@
 # 🚀 Reddit Comment Moderation Classifier
- 
+  
 **Bringing 'Comment Sense' to Reddit Moderation**
 
 Ever had a comment removed on Reddit and wondered *why*? You're not alone! Each subreddit has its own rules, and moderation decisions can sometimes feel mysterious. This project aims to demystify the process by using **machine learning** to predict whether a comment breaks a specific subreddit rule.
