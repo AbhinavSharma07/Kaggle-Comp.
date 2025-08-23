@@ -3,7 +3,7 @@
 Welcome to the **2025 Kaggle Playground Series**! Each month we bring you a new and approachable dataset designed to help you improve your machine learning skills through practical challenges.
 
 ---  
-
+ 
 ## 🎯 Goal
 
 Your task is to **predict whether a client will subscribe to a bank term deposit** based on a variety of features related to client demographics, previous marketing interactions, and current campaign data.
