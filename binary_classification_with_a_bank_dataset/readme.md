@@ -1,5 +1,5 @@
 # 🏦 2025 Kaggle Playground Series - August
-       
+        
 Welcome to the **2025 Kaggle Playground Series**! Each month we bring you a new and approachable dataset designed to help you improve your machine learning skills through practical challenges.
 
 ---  
