@@ -58,4 +58,10 @@ Combines **structured + unstructured data**:
 
 ---
 
-## 📂 Repository Structure  
+## Generate Insights with SQL
+SELECT AI.GENERATE(
+  'Summarize the following support ticket:',
+  support_ticket_text
+) AS ticket_summary
+FROM `project.dataset.support_tickets`;
+
