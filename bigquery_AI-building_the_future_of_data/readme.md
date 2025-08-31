@@ -54,4 +54,4 @@ Combines **structured + unstructured data**:
 - **BigQuery AI** (Generative AI, Vector Search, Multimodal)  
 - **SQL Functions** (`AI.GENERATE`, `AI.FORECAST`, `VECTOR_SEARCH`, etc.)  
 - **BigFrames (Python)** for AI-powered workflows  
-- **Google Cloud Storage** for unstructured data (PDFs, images, logs)  
+- **Google Cloud Storage** for unstructured data (PDFs, images, logs)
