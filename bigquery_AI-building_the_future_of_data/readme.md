@@ -1,5 +1,5 @@
 # 🚀 BigQuery AI Challenge – Unstructured Data Intelligence  
-
+ 
 ## 📌 Overview  
 This project was built as part of the **BigQuery AI Challenge**, which encourages participants to go beyond traditional analytics and build groundbreaking solutions using **BigQuery's AI capabilities** — including **Generative AI, Vector Search, and Multimodal features**.  
 
