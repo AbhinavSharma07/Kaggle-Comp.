@@ -1,5 +1,5 @@
 # 🩻 Grand X-Ray Slam: Division A
-   
+    
 Welcome to the official repository for our participation in the **Grand X-Ray Slam: Division A**, a Kaggle Community Hackathon focused on building life-saving AI models for thoracic disease detection from chest X-rays.
 
 ---
