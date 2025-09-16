@@ -26,5 +26,4 @@ The performance of models is evaluated using **Mean Absolute Error (MAE)** on a 
 - `SMILES` : Simplified molecular-input line-entry system string representation of the molecule
 - `Group 1..N` : Descriptor features representing functional groups within the molecule
 - `Tm` : Melting point in Kelvin (only in the training set)
-
-Additional details are provided in the Machine Learning for Engineers course under the Thermophysical Properties section.
+- 
