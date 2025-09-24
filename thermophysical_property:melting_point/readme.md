@@ -15,7 +15,7 @@ The performance of models is evaluated using **Mean Absolute Error (MAE)** on a 
 - **Total compounds**: 3,328  
 - **Training set**: 2,662 samples (80%)  
 - **Test set**: 666 samples (20%)  
-
+ 
 ### Files:
 - `train.csv` : Includes features and target (melting point, `Tm`)
 - `test.csv` : Contains features only, without target
