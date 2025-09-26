@@ -1,5 +1,5 @@
 # Melting Point Prediction Challenge
-      
+       
 ## 🧪 Overview
 
 The goal of this project is to build machine learning models that predict the melting point (°C) of organic compounds using molecular descriptors. Melting point is a critical property in chemistry, impacting drug design, material selection, and process safety. However, obtaining experimental melting point data is often expensive, time-consuming, or not always feasible.
