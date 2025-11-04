@@ -55,23 +55,3 @@ You’ll receive **daily historical data** combining:
 
 Each row corresponds to a trading day, with all features available at close (no lookahead).
 
----
-
-## 🧠 **How to Compete**
-
-```bash
-# 1️⃣ Clone this repo
-git clone https://github.com/your-username/market-efficiency-challenge.git
-cd market-efficiency-challenge
-
-# 2️⃣ Install dependencies
-pip install -r requirements.txt
-
-# 3️⃣ Explore the data
-python explore_data.py
-
-# 4️⃣ Train your model
-python train_model.py
-
-# 5️⃣ Simulate your strategy
-python backtest.py
