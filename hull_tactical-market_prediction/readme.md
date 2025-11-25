@@ -1,5 +1,5 @@
 # 🧠💰 **Market Efficiency Challenge: Can You Beat the EMH?** 
-               
+                
 > _“The market is efficient.”_  
 > That’s what they say. But in the age of machine learning… are they still right?
  
