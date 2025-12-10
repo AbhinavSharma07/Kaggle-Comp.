@@ -1,5 +1,5 @@
 # Vesuvius Challenge – Scroll Surface Segmentation
-
+ 
 This repository contains my work for the **Vesuvius Challenge**, where the goal is to develop a model capable of segmenting the **scroll surface** of carbonized Herculaneum papyri using 3D CT scan volumes. Effective surface tracing is a crucial step toward the virtual unwrapping and reading of ancient texts that have remained sealed for nearly two millennia.
 
 ---
