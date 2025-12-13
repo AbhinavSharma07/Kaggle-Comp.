@@ -11,7 +11,7 @@ For decades, the **Efficient Market Hypothesis (EMH)** has ruled finance — cla
 
 But here’s the twist:  
 **Data science has changed the game.**
-
+ 
 With the rise of machine learning, deep feature engineering, and alternative data sources, it’s time to put EMH to the test.  
 This competition challenges you to **build a predictive model for excess market returns** — and design a **betting strategy** that can **outperform the S&P 500** under a **120% volatility cap**.
 
