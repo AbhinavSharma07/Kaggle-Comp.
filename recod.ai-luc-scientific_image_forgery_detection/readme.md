@@ -1,0 +1,1 @@
+recod.ai-luc-scientific_image_forgery_detection
