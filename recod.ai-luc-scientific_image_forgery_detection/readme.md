@@ -97,16 +97,3 @@ A successful model can:
 - 🛡️ Reduce the spread of fraudulent scientific results  
 
 **Goal:** Strengthen trust in published biomedical research.
-
----
-
-## 🗂️ Repository Structure
-
-```text
-├── data/               # Dataset loaders & preprocessing
-├── models/             # Model architectures
-├── training/           # Training & evaluation pipelines
-├── inference/          # Inference & visualization scripts
-├── notebooks/          # Experiments & analysis
-├── utils/              # Helper utilities
-└── README.md           # Project documentation
