@@ -1,4 +1,3 @@
-
 # 🧬 Scientific Image Copy-Move Forgery Detection
 
 <p align="center">
