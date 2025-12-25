@@ -1,5 +1,5 @@
 # 🧬 Scientific Image Copy-Move Forgery Detection
-   
+    
 <p align="center">
   <strong>Protecting scientific integrity — one pixel at a time</strong>
 </p>
