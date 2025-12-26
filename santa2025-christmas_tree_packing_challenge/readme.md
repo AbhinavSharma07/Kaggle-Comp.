@@ -26,12 +26,3 @@ Think smart. Pack tight. Impress Rudolph 🦌
 ✔ Minimize parcel size  
 ✔ Reduce unused space  
 ✔ Scale efficiently for large inputs  
-
----
-
-## 🖥️ Interactive Usage
-
-Run the program and enter the number of trees:
-
-🎄 Enter number of Christmas trees (1-200): 10
-📦 Optimal square box size: 4 x 4
