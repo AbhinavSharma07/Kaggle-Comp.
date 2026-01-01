@@ -81,54 +81,11 @@ This is a **multi-label classification problem** with:
 
 ---
 
-## 📂 Repository Structure
-
-```
-├── data/               # Dataset and preprocessing scripts
-├── models/             # Model definitions
-├── training/           # Training and evaluation pipelines
-├── inference/          # Prediction scripts
-├── notebooks/          # Experiments and analysis
-├── utils/              # Helper functions
-├── requirements.txt    # Dependencies
-└── README.md           # Project documentation
-```
-
----
-
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/your-username/protein-function-prediction.git
-cd protein-function-prediction
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Usage
-
-### Train the Model
-
-```bash
-python train.py --config configs/train.yaml
-```
-
-### Run Inference
-
-```bash
-python predict.py --input sequences.fasta --output predictions.csv
-```
-
----
-
 ## 📊 Results
 
 * The model predicts multiple GO terms per protein
 * Enables faster functional annotation of unknown proteins
 * Helps narrow down experimental hypotheses
-
-*(Exact scores depend on model and training configuration.)*
 
 ---
 
@@ -148,30 +105,6 @@ A strong-performing model can help scientists focus on the most promising experi
 ## 📝 Competition & Publication
 
 This project is based on a **protein function prediction competition**. At the end of the competition, the organizers plan to write a **scientific article**, with contributors potentially considered as **co-authors based on merit**.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-* Improve model architectures
-* Optimize training strategies
-* Add biological insights or evaluation tools
-
----
-
-## 📜 License
-
-This project is intended for **research and educational purposes**. Refer to the competition and dataset licenses for usage restrictions.
-
----
-
-## ⭐ Acknowledgements
-
-* Gene Ontology Consortium
-* Open-source ML & bioinformatics community
-* Competition organizers and contributors
 
 ---
 
