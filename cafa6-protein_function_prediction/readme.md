@@ -1,1 +1,178 @@
-cafa6-protein_function_prediction
+# 🧬 Protein Function Prediction using Amino Acid Sequences
+
+## 📌 Overview
+
+Proteins are fundamental to almost every biological process, from oxygen transport to muscle growth and cellular signaling. Each protein’s **function is determined by its amino acid sequence**, yet the biological roles of many proteins remain unknown.
+
+This repository contains a **machine learning solution to predict protein functions** directly from amino acid sequences by assigning **Gene Ontology (GO) terms**. These predictions can accelerate biological discovery, support experimental prioritization, and contribute to medical and agricultural research.
+
+---
+
+## 🧠 Problem Statement
+
+Given a protein’s amino acid sequence, predict its associated **Gene Ontology (GO) terms**, which describe:
+
+* **Molecular Function (MF)** – what the protein does
+* **Biological Process (BP)** – processes it participates in
+* **Cellular Component (CC)** – where it operates in the cell
+
+This is a **multi-label classification problem** with:
+
+* Highly imbalanced labels
+* Noisy and incomplete biological annotations
+* Proteins having multiple and context-dependent functions
+
+---
+
+## 🚀 Project Goals
+
+* Learn rich representations from raw protein sequences
+* Accurately predict multiple GO terms per protein
+* Build a scalable and biologically meaningful ML pipeline
+* Support downstream research in protein function discovery
+
+---
+
+## 🧪 Dataset
+
+* **Input**: Protein amino acid sequences
+* **Output**: Multiple GO term labels per protein
+* **Challenges**:
+
+  * Large label space
+  * Sparse annotations
+  * Long sequence lengths
+
+*(Dataset details depend on the competition source and are assumed to follow standard GO annotation formats.)*
+
+---
+
+## 🏗️ Approach
+
+### 1. Sequence Representation
+
+* Raw amino acid sequences
+* Tokenization of 20 standard amino acids
+* Padding / truncation for batch processing
+
+### 2. Model Architecture
+
+* Deep learning–based sequence models
+* Possible components:
+
+  * Embedding layers for amino acids
+  * CNN / RNN / Transformer-based encoders
+  * Fully connected layers for multi-label prediction
+
+### 3. Training Strategy
+
+* Loss: Binary Cross-Entropy (multi-label)
+* Techniques for class imbalance:
+
+  * Label weighting
+  * Threshold tuning
+* Regularization and validation monitoring
+
+### 4. Evaluation Metrics
+
+* F1-score (macro / micro)
+* Precision & Recall
+* Area Under Precision-Recall Curve (AUPRC)
+
+---
+
+## 📂 Repository Structure
+
+```
+├── data/               # Dataset and preprocessing scripts
+├── models/             # Model definitions
+├── training/           # Training and evaluation pipelines
+├── inference/          # Prediction scripts
+├── notebooks/          # Experiments and analysis
+├── utils/              # Helper functions
+├── requirements.txt    # Dependencies
+└── README.md           # Project documentation
+```
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/your-username/protein-function-prediction.git
+cd protein-function-prediction
+pip install -r requirements.txt
+```
+
+---
+
+## ▶️ Usage
+
+### Train the Model
+
+```bash
+python train.py --config configs/train.yaml
+```
+
+### Run Inference
+
+```bash
+python predict.py --input sequences.fasta --output predictions.csv
+```
+
+---
+
+## 📊 Results
+
+* The model predicts multiple GO terms per protein
+* Enables faster functional annotation of unknown proteins
+* Helps narrow down experimental hypotheses
+
+*(Exact scores depend on model and training configuration.)*
+
+---
+
+## 🔬 Scientific Impact
+
+Accurate protein function prediction can:
+
+* Accelerate biological research
+* Improve understanding of disease mechanisms
+* Enable faster drug discovery
+* Support agricultural and environmental research
+
+A strong-performing model can help scientists focus on the most promising experiments and uncover hidden biological relationships.
+
+---
+
+## 📝 Competition & Publication
+
+This project is based on a **protein function prediction competition**. At the end of the competition, the organizers plan to write a **scientific article**, with contributors potentially considered as **co-authors based on merit**.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+* Improve model architectures
+* Optimize training strategies
+* Add biological insights or evaluation tools
+
+---
+
+## 📜 License
+
+This project is intended for **research and educational purposes**. Refer to the competition and dataset licenses for usage restrictions.
+
+---
+
+## ⭐ Acknowledgements
+
+* Gene Ontology Consortium
+* Open-source ML & bioinformatics community
+* Competition organizers and contributors
+
+---
+
+*Predicting protein function is a small step for a model—but a giant leap for medicine.* 🧬
