@@ -102,10 +102,4 @@ A strong-performing model can help scientists focus on the most promising experi
 
 ---
 
-## 📝 Competition & Publication
-
-This project is based on a **protein function prediction competition**. At the end of the competition, the organizers plan to write a **scientific article**, with contributors potentially considered as **co-authors based on merit**.
-
----
-
 *Predicting protein function is a small step for a model—but a giant leap for medicine.* 🧬
