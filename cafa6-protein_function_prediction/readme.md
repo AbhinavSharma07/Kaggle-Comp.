@@ -1,5 +1,5 @@
 # 🧬 Protein Function Prediction using Amino Acid Sequences
-
+ 
 ## 📌 Overview
 
 Proteins are fundamental to almost every biological process, from oxygen transport to muscle growth and cellular signaling. Each protein’s **function is determined by its amino acid sequence**, yet the biological roles of many proteins remain unknown.
