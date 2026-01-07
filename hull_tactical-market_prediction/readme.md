@@ -4,7 +4,7 @@
 > That’s what they say. But in the age of machine learning… are they still right?
   
 ---  
-
+ 
 ## 🎯 **Overview**
 
 For decades, the **Efficient Market Hypothesis (EMH)** has ruled finance — claiming that prices reflect all available information, making it impossible to consistently outperform the market.
