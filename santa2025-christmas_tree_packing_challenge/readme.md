@@ -1,5 +1,5 @@
 # 🎄 Santa’s Tree Packing Challenge
-  
+   
 Help Santa optimize holiday shipping by packing Christmas tree toys into the **smallest possible square parcel**.
 
 ---
