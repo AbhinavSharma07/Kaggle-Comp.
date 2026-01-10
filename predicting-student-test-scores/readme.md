@@ -31,22 +31,6 @@ Predict the continuous target variable **`exam_score`** for students based on pr
 
 ---
 
-## 📌 Submission Format
-
-Your submission file must be a CSV with the following structure:
-
-```csv
-id,exam_score
-630000,97.5
-630001,89.2
-630002,85.5
-```
-
-* One row per test sample
-* Header is required
-
----
-
 ## 🧪 Evaluation Metric
 
 Submissions are evaluated using **Root Mean Squared Error (RMSE):**
@@ -75,67 +59,3 @@ Models commonly used:
 * Random Forest
 * XGBoost / LightGBM / CatBoost
 * Neural Networks (optional)
-
----
-
-## ⏰ Competition Timeline
-
-* **Start Date:** January 1, 2026
-* **Final Submission Deadline:** January 31, 2026 (11:59 PM UTC)
-
----
-
-## 📦 Requirements
-
-Example dependencies:
-
-```bash
-numpy
-pandas
-scikit-learn
-xgboost
-lightgbm
-catboost
-matplotlib
-seaborn
-```
-
-Install using:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 How to Run
-
-```bash
-# Train model
-python train.py
-
-# Generate predictions
-python predict.py
-```
-
----
-
-## 🏁 Results
-
-* Cross-validation RMSE: *(to be updated)*
-* Public leaderboard score: *(to be updated)*
-
----
-
-## 🤝 Acknowledgements
-
-* Kaggle for organizing the Tabular Playground Series
-* Kaggle community for insights and discussions
-
----
-
-## 📬 Contact
-
-For questions or suggestions, feel free to open an issue or connect via GitHub.
-
-Happy Modeling! 🎯
