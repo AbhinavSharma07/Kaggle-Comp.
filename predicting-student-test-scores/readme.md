@@ -1,5 +1,5 @@
 # 📊 Kaggle Playground Series 2026 – Student Exam Score Prediction
-        
+         
 Welcome to this repository! 🚀
 This project is built for the **2026 Kaggle Tabular Playground Series**, where the goal is to predict **students' exam scores** using tabular machine learning techniques.
 
