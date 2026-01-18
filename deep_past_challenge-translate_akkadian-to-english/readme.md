@@ -1,18 +1,1 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  deep_past_challenge-translate_akkadian-to-english
+deep_past_challenge-translate_akkadian-to-english
