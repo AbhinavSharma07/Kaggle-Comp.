@@ -27,7 +27,3 @@ Build an accurate translation model that:
 - Generalizes to unseen tablets
 
 Success helps recover voices from **10,000+ untranslated Bronze Age texts**.
-
----
-
-## 📂 Repository Structure
