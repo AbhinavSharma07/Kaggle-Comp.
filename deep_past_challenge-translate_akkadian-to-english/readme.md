@@ -18,7 +18,7 @@ This project builds a **neural machine translation (NMT)** system to translate *
   - One word can encode multiple meanings
   - Standard NMT models struggle
 
----
+--- 
 
 ## 🎯 Objective
 Build an accurate translation model that:
