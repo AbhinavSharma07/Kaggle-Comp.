@@ -1,5 +1,5 @@
 # 🏺 Deep Past Challenge — Old Assyrian to English Translation
-         
+          
 ## 📌 Overview.    
 The **Deep Past Challenge** explores whether modern AI can decode **4,000-year-old business records** written in Old Assyrian cuneiform.
 
