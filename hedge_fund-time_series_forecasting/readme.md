@@ -37,24 +37,6 @@ Final rankings are based on the private leaderboard.
 
 ---
 
-## 📊 Evaluation Metric
-
-The competition uses a **Weighted RMSE-based Skill Score**, defined as:
-
-\[
-score = \sqrt{1 - clip\left(\frac{\sum w (y - \hat{y})^2}{\sum w y^2}, 0, 1\right)}
-\]
-
-Where:
-- `y` = true values  
-- `ŷ` = predictions  
-- `w` = weights  
-
-Reference implementation:
-
-```python
-def _clip01(x: float) -> float:
-    return float(np.minimum(np.maximum(x, 0.0), 1.0))
 
 def weighted_rmse_score(y_target, y_pred, w) -> float:
     denom = np.sum(w * y_target ** 2)
