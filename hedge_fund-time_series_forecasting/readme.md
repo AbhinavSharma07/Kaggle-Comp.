@@ -33,14 +33,4 @@ The task is to train a model that:
 Public leaderboard: ~25% of test data  
 Private leaderboard: ~75% of hidden test data  
 
-Final rankings are based on the private leaderboard.
 
----
-
-
-def weighted_rmse_score(y_target, y_pred, w) -> float:
-    denom = np.sum(w * y_target ** 2)
-    ratio = np.sum(w * (y_target - y_pred) ** 2) / denom
-    clipped = _clip01(ratio)
-    val = 1.0 - clipped
-    return float(np.sqrt(val))
